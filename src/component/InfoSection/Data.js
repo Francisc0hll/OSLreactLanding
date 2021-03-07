@@ -33,18 +33,18 @@ export const homeObjTwo = {
 }
 
 export const homeObjThree = {
-    id: 'services',
-    lightBg: false,
-    lightText: true,
-    lightTextDesc: true,
-    topLine: 'Servicios',
+    id: 'signup',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Contact us',
     headLine: 'nose que podria ir aca pero lo veremos',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu erat, ullamcorper quis tincidunt non.',
-    buttonLabel: 'comencemos',
+    buttonLabel: 'Contact Us',
     imgStart: false,
-    img: 'images/svg-3.svg',
-    alt: 'servicios',
-    dark: true,
-    primary: true,
-    darkText: false
+    img: 'images/svg-4.svg',
+    alt: 'singup',
+    dark: false,
+    primary: false,
+    darkText: true
 }
