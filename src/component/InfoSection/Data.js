@@ -12,7 +12,8 @@ export const homeObjOne = {
     alt: 'developer',
     dark: true,
     primary: true,
-    darkText: false
+    darkText: false,
+    showBtn: true
 }
 
 export const homeObjTwo = {
@@ -29,7 +30,8 @@ export const homeObjTwo = {
     alt: 'nosotros',
     dark: false,
     primary: false,
-    darkText: true
+    darkText: true,
+    showBtn: true
 }
 
 export const homeObjThree = {
@@ -37,7 +39,7 @@ export const homeObjThree = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Contact us',
+    topLine: 'Contactanos',
     headLine: 'nose que podria ir aca pero lo veremos',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu erat, ullamcorper quis tincidunt non.',
     buttonLabel: 'Contact Us',
@@ -46,5 +48,7 @@ export const homeObjThree = {
     alt: 'singup',
     dark: false,
     primary: false,
-    darkText: true
+    darkText: true,
+    showBtn: false,
+    redirection: '/contactUs'
 }

@@ -17,7 +17,7 @@ const Services = () => {
     return (
         
         <ServicesContainer id="services">
-            <ServicesH1>Our Services</ServicesH1>
+            <ServicesH1>Servicios</ServicesH1>
             <ServicesWrapper>
                 <ServicesCard>
                     <ServicesIcon src={Icon1}/>
@@ -25,12 +25,12 @@ const Services = () => {
                     <ServicesP>lo que sea que debamos decir en esta parte de la pagina</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
-                    <ServicesIcon src={Icon2}/>
-                    <ServicesH2>Ecommerce</ServicesH2>
+                    <ServicesIcon src={Icon3}/>
+                    <ServicesH2>E-commerce</ServicesH2>
                     <ServicesP>lo que sea que debamos decir en esta parte de la pagina</ServicesP>
                 </ServicesCard>
                 <ServicesCard>
-                    <ServicesIcon src={Icon3}/>
+                    <ServicesIcon src={Icon2}/>
                     <ServicesH2>Mobile App</ServicesH2>
                     <ServicesP>lo que sea que debamos decir en esta parte de la pagina</ServicesP>
                 </ServicesCard>
