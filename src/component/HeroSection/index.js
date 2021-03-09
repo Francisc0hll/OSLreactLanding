@@ -30,7 +30,7 @@ const HeroSection = () => {
                 <HeroH1>OutSiderLab</HeroH1>
                 <HeroP>Expertos en desarrollar tus ideas y que seas el mas bkn</HeroP>
                 <HeroBtnWrapper>
-                    <Button to= 'signup' 
+                    {/* <Button to= 'signup' 
                     onMouseEnter={onHover} 
                     onMouseLeave={onHover} 
                     primary='true' 
@@ -42,7 +42,7 @@ const HeroSection = () => {
                     offset={-80}
                     >
                         Comienza ahora {hover ? <ArrowForward /> : <ArrowRight />}
-                    </Button>
+                    </Button> */}
                 </HeroBtnWrapper>
             </HeroContent>
         </HeroContainer>

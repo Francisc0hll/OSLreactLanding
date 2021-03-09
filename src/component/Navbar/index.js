@@ -52,7 +52,7 @@ const Navbar = ({toggle}) => {
                               spy={true} 
                               exact='true' 
                               offset={-80}             
-                            >About</NavLinks>
+                            >Inicio</NavLinks>
                         </NavItem>
                         <NavItem>
                             <NavLinks 
@@ -61,7 +61,7 @@ const Navbar = ({toggle}) => {
                               duration={500} 
                               spy={true} 
                               exact='true' 
-                              offset={-80} >Discover</NavLinks>
+                              offset={-80} >Nosotros</NavLinks>
                         </NavItem>
                         <NavItem>
                             <NavLinks 
@@ -71,7 +71,7 @@ const Navbar = ({toggle}) => {
                               spy={true} 
                               exact='true' 
                               offset={-80} 
-                            >Services</NavLinks>
+                            >Servicios</NavLinks>
                         </NavItem>
                         <NavItem>
                             <NavLinks 
@@ -80,12 +80,12 @@ const Navbar = ({toggle}) => {
                               duration={500} 
                               spy={true} 
                               exact='true' 
-                              offset={-80} >Sign up</NavLinks>
+                              offset={-80} >Contacto</NavLinks>
                         </NavItem>
                         
                     </NavMenu>
                         <NavBtn>
-                            <NavBtnLink to='/signin'>Sign In</NavBtnLink>
+                            <NavBtnLink to='/contactus'>Contact Us</NavBtnLink>
                         </NavBtn>
                 </NavbarContainer>
             </Nav>
