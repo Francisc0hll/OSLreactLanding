@@ -12,7 +12,8 @@ export const homeObjOne = {
     alt: 'developer',
     dark: true,
     primary: true,
-    darkText: false
+    darkText: false,
+    showBtn: true
 }
 
 export const homeObjTwo = {
@@ -29,7 +30,8 @@ export const homeObjTwo = {
     alt: 'nosotros',
     dark: false,
     primary: false,
-    darkText: true
+    darkText: true,
+    showBtn: true
 }
 
 export const homeObjThree = {
@@ -46,5 +48,6 @@ export const homeObjThree = {
     alt: 'singup',
     dark: false,
     primary: false,
-    darkText: true
+    darkText: true,
+    showBtn: false
 }
