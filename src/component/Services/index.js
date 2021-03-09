@@ -26,7 +26,7 @@ const Services = () => {
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon2}/>
-                    <ServicesH2>Ecommerce</ServicesH2>
+                    <ServicesH2>E-commerce</ServicesH2>
                     <ServicesP>lo que sea que debamos decir en esta parte de la pagina</ServicesP>
                 </ServicesCard>
                 <ServicesCard>

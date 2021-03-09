@@ -1,10 +1,10 @@
 import React from 'react'
 import ContactUsPage from '../component/ContantUs'
 
-const SigninPage = () => {
+const ContactUsPage = () => {
     return (
         <ContactUsPage/>
     )
 }
 
-export default SigninPage
+export default ContactUsPage
