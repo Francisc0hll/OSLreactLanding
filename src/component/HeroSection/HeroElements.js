@@ -55,11 +55,12 @@ export const HeroContent = styled.div`
 
 export const HeroH1 = styled.h1`
     color: #fff;
-    font-size: 48px;
+    font-family: 'Rock Salt',cursive;
+    font-size: 62px;
     text-align: center;
 
     @media screen and (max-width: 768px){
-        font-size: 40px;
+        font-size: 37px;
     }
 
     @media screen and (max-width: 480px){
