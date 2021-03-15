@@ -53,6 +53,7 @@ export const TextWrapper = styled.div`
 
 export const TopLine = styled.p`
     color: #01bf71;
+    font-family: 'Rock Salt',cursive ;
     font-size: 16px;
     line-height: 16px;
     font-weigt: 700;
@@ -64,6 +65,7 @@ export const TopLine = styled.p`
 
 export const Heading = styled.h1`
     margin-bottom: 24px;
+    
     font-size: 48px;
     line-height: 1.1;
     font-weight: 600;
