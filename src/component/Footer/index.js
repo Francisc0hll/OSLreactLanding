@@ -39,9 +39,9 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialMediaLogo to="/" onClick={toggleHome}>
-                            OUTSIDERLAB
+                            OUTSIDERSLAB
                         </SocialMediaLogo>
-                        <WebsiteRights>OutSidersLab {new Date().getFullYear()} All right reserverd.</WebsiteRights>
+                        <WebsiteRights>OutSidersLab &copy; {new Date().getFullYear()} All right reserverd.</WebsiteRights>
                     </SocialMediaWrap>
                 </SocialMedia>
 

@@ -26,7 +26,7 @@ export const homeObjTwo = {
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu erat, ullamcorper quis tincidunt non.',
     buttonLabel: 'leer mas',
     imgStart: true,
-    img: 'images/svg-2.svg',
+    img: 'images/svg_team_spirit.svg',
     alt: 'nosotros',
     dark: false,
     primary: false,

@@ -1,5 +1,5 @@
 import React from 'react'
-import Icon1 from '../../images/svg-1.svg'
+import Icon1 from '../../images/svg_web_shopping.svg'
 import Icon2 from '../../images/svg_mobile.svg'
 import Icon3 from '../../images/svg-3.svg'
 import {
